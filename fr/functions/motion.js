@@ -1,1 +1,2 @@
-export default {	"keywords#motion": "", // motion, presence, present	"motion": ""}
+export default {	"keywords#motion": "", // motion, presence, present
+	"motion": ""}

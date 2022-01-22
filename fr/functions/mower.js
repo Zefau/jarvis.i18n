@@ -1,1 +1,2 @@
-export default {	"keywords#mower": "", // mower, machine, lawn	"mower": ""}
+export default {	"keywords#mower": "", // mower, machine, lawn
+	"mower": ""}

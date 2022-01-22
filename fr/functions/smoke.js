@@ -1,1 +1,2 @@
-export default {	"keywords#smoke": "", // smoke, detect, alarm	"smoke": ""}
+export default {	"keywords#smoke": "", // smoke, detect, alarm
+	"smoke": ""}

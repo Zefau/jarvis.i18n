@@ -1,1 +1,2 @@
-export default {	"AdapterLogs#description": "" // Displays the ioBroker.log.}
+export default {	"AdapterLogs#description": "" // Displays the ioBroker.log.
+}

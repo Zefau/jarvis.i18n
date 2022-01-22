@@ -1,1 +1,2 @@
-export default {	"keywords#scenes": "", // scene	"scenes": ""}
+export default {	"keywords#scenes": "", // scene
+	"scenes": ""}
