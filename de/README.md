@@ -1,7 +1,7 @@
 | File | Translations | Not Translated | % |
 |:- | -:| -:| -:|
 | `functions/_defaults.js` | 61 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
-| `functions/blind.js` | 11 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
+| [`functions/blind.js`](functions/blind.js) | 11 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | `functions/door.js` | 9 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | `functions/fan.js` | 2 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | `functions/heating.js` | 7 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
