@@ -1,1 +1,1 @@
-export default {	"keywords#tv": "",	"tv": ""}
+export default {	"keywords#tv": "",	"tv": ""}

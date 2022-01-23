@@ -1,1 +1,1 @@
-export default {	"keywords#sensor": "",	"sensor": ""}
+export default {	"keywords#sensor": "",	"sensor": ""}

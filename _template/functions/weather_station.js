@@ -1,1 +1,1 @@
-export default {	"keywords#weather-station": "",	"weather-station": ""}
+export default {	"keywords#weather-station": "",	"weather-station": ""}

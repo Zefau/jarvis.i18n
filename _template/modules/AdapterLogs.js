@@ -1,1 +1,1 @@
-export default {	"AdapterLogs#description": ""}
+export default {	"AdapterLogs#description": ""}

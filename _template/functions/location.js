@@ -1,1 +1,1 @@
-export default {	"keywords#location": "",	"location": "",		// States	"location#position": "",	"location#presence": "",	"location#presence#true": "",	"location#presence#false": "",	"location#users": "",	"location#users#empty": ""}
+export default {	"keywords#location": "",	"location": "",		// States	"location#position": "",	"location#presence": "",	"location#presence#true": "",	"location#presence#false": "",	"location#users": "",	"location#users#empty": ""}

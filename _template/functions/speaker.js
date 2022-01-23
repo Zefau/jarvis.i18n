@@ -1,1 +1,1 @@
-export default {	"keywords#speaker": "",	"speaker": ""}
+export default {	"keywords#speaker": "",	"speaker": ""}

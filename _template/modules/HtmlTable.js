@@ -1,1 +1,1 @@
-export default {	"HtmlTable#description": ""}
+export default {	"HtmlTable#description": ""}

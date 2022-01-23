@@ -1,1 +1,1 @@
-export default {	"keywords#smoke": "",	"smoke": ""}
+export default {	"keywords#smoke": "",	"smoke": ""}

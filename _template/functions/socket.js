@@ -1,1 +1,1 @@
-export default {	"keywords#socket": "",	"socket": "",		"running": "",	"consumption": ""}
+export default {	"keywords#socket": "",	"socket": "",		"running": "",	"consumption": ""}
