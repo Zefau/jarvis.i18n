@@ -1,1 +1,75 @@
-export default {	"_defaults": "",	"other": "",		// Config	"config#componentOptions#_all#val#label": "",	"config#componentOptions#_all#val#info": "",	"config#componentOptions#_all#val#options#val": "",	"config#componentOptions#_all#val#options#value": "",		"config#componentOptions#SwitchAction#colorOn#label": "",	"config#componentOptions#SwitchAction#colorOff#label": "",	"config#componentOptions#SwitchAction#color#info": "",		"config#componentOptions#SwitchAction#triggerOnValue#label": "",	"config#componentOptions#SwitchAction#triggerOnValue#info": "",	"config#componentOptions#SwitchAction#triggerOffValue#label": "",	"config#componentOptions#SwitchAction#triggerOffValue#info": "",		"config#componentOptions#LevelBody#step#label": "",	"config#componentOptions#LevelBody#step#info": "",	"config#componentOptions#LevelBody#showMarkersSteps#label": "",	"config#componentOptions#LevelBody#showMarkersSteps#info": "",	"config#componentOptions#LevelBody#markStep#label": "",	"config#componentOptions#LevelBody#markStep#info": "",	"config#componentOptions#LevelBody#unit#label": "",	"config#componentOptions#LevelBody#unit#info": "",		"config#componentOptions#CustomTextBody#text#label": "",	"config#componentOptions#LastChangeBody#time#label": "",	"config#componentOptions#LastChangeBody#time#info": "",	"config#componentOptions#LastChangeBody#timeFormat#label": "",	"config#componentOptions#LastChangeBody#timeFormat#info": "",		"config#componentOptions#IconButtonAction#pushButton#label": "",	"config#componentOptions#IconButtonAction#pushButton#info": "",	"config#componentOptions#IconButtonAction#flat#label": "",	"config#componentOptions#IconButtonAction#flat#info": "",	"config#componentOptions#IconButtonAction#iconTurnOn#label": "",	"config#componentOptions#IconButtonAction#iconTurnOff#label": "",	"config#componentOptions#SwitchAction#icon#info": "",	"config#componentOptions#IconButtonAction#showState#label": "",	"config#componentOptions#IconButtonAction#showState#info": "",	"config#componentOptions#IconButtonAction#buttonSize#label": "",	"config#componentOptions#IconButtonAction#buttonSize#info": "",		"config#componentOptions#IconState#iconTurnOn#label": "",	"config#componentOptions#IconState#iconTurnOff#label": "",		"config#componentOptions#ButtonAction#labelTurnOn#label": "",	"config#componentOptions#ButtonAction#labelTurnOff#label": "",		// States	"defaults#off": "",	"defaults#on": "",	"defaults#low": "",	"defaults#full": "",	"defaults#reachable": "",	"defaults#notreachable": "",	"defaults#firmware#true": "",	"defaults#firmware#false": "",		"Last Change": "",	"Last Update": "",	"unreach": "",	"reachability": "",	"reachable": "",	"not reachable": "",	"lowBattery": "",	"full": "",	"low": "",		// Component	"Display attribute of state %s must be defined": ""}
+export default {
+	"_defaults": "",
+	"other": "",
+	
+	// Config
+	"config#componentOptions#_all#val#label": "",
+	"config#componentOptions#_all#val#info": "",
+	"config#componentOptions#_all#val#options#val": "",
+	"config#componentOptions#_all#val#options#value": "",
+	
+	"config#componentOptions#SwitchAction#colorOn#label": "", // Color (on)
+	"config#componentOptions#SwitchAction#colorOff#label": "", // Color (off)
+	"config#componentOptions#SwitchAction#color#info": "", // Material-Brand-Color (Hex-Codes are not supported), siehe http
+	
+	"config#componentOptions#SwitchAction#triggerOnValue#label": "", // Activation value
+	"config#componentOptions#SwitchAction#triggerOnValue#info": "", // Value to set on activation
+	"config#componentOptions#SwitchAction#triggerOffValue#label": "", // Deactivation value
+	"config#componentOptions#SwitchAction#triggerOffValue#info": "", // Value to set on deactivation
+	
+	"config#componentOptions#LevelBody#step#label": "", // Marker Steps / Granularity (Selectable)
+	"config#componentOptions#LevelBody#step#info": "", // The granularity with which the slider can step through values. This granularity regulates which values are possible to pick and NOT which are shown as marks. A granularity of e.g. 1 allows to select 1, 2, 3, etc.; whereas e.g. 2 allows to select 1, 3, 5, etc.; Minimum (min) and maximum (max) values are defined in the device itself (in the properties field).
+	"config#componentOptions#LevelBody#showMarkersSteps#label": "", // Show Marker Steps
+	"config#componentOptions#LevelBody#showMarkersSteps#info": "", // Indicates the markers of the steps with its position number
+	"config#componentOptions#LevelBody#markStep#label": "", // Marker Steps / Granularity (Displayed)
+	"config#componentOptions#LevelBody#markStep#info": "", // The displayed granularity with which the slider. This granularity regulates the number of marks to be displayed. The calculation is based on min/max values of the device
+	"config#componentOptions#LevelBody#unit#label": "", // Use Device Unit
+	"config#componentOptions#LevelBody#unit#info": "", // Shows device unit with the markers
+	
+	"config#componentOptions#CustomTextBody#text#label": "", // Own custom text
+	"config#componentOptions#LastChangeBody#time#label": "", // Time
+	"config#componentOptions#LastChangeBody#time#info": "",
+	"config#componentOptions#LastChangeBody#timeFormat#label": "", // Timeformat LastChangeBody
+	"config#componentOptions#LastChangeBody#timeFormat#info": "", // Globale time format of the LastChangeBody component. For possible format values, see date-fns documentation.
+	
+	"config#componentOptions#IconButtonAction#pushButton#label": "", // Push Button
+	"config#componentOptions#IconButtonAction#pushButton#info": "", // Use button as push button
+	"config#componentOptions#IconButtonAction#flat#label": "", // Style
+	"config#componentOptions#IconButtonAction#flat#info": "", // Show button with (false) or without border (true)
+	"config#componentOptions#IconButtonAction#iconTurnOn#label": "", // Icon (on)
+	"config#componentOptions#IconButtonAction#iconTurnOff#label": "", // Icon (off)
+	"config#componentOptions#SwitchAction#icon#info": "", // only Material Design Icons are possible!
+	"config#componentOptions#IconButtonAction#showState#label": "", // Show only state value
+	"config#componentOptions#IconButtonAction#showState#info": "", // Shows only the state value (on true) or only the button (on false)
+	"config#componentOptions#IconButtonAction#buttonSize#label": "", // Button Size
+	"config#componentOptions#IconButtonAction#buttonSize#info": "", // Size of the button
+	
+	"config#componentOptions#IconState#iconTurnOn#label": "", // Icon (on)
+	"config#componentOptions#IconState#iconTurnOff#label": "", // Icon (off)
+	
+	"config#componentOptions#ButtonAction#labelTurnOn#label": "", // Label (on)
+	"config#componentOptions#ButtonAction#labelTurnOff#label": "", // Label (off)
+	
+	// States
+	"defaults#off": "", // off
+	"defaults#on": "", // on
+	"defaults#low": "", // low
+	"defaults#full": "", // full
+	"defaults#reachable": "", // reachable
+	"defaults#notreachable": "", // not reachable
+	"defaults#firmware#true": "", // update available
+	"defaults#firmware#false": "", // no update
+	
+	"Last Change": "",
+	"Last Update": "",
+	"unreach": "",
+	"reachability": "",
+	"reachable": "",
+	"not reachable": "",
+	"lowBattery": "",
+	"full": "",
+	"low": "",
+	
+	// Component
+	"Display attribute of state %s must be defined": ""
+}

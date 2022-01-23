@@ -1,1 +1,10 @@
-export default {	"keywords#window": "",	"window": "",		// States	"window#open": "",	"window#open#opened": "",	"window#open#closed": "",	"window#open#tilted": ""}
+export default {
+	"keywords#window": "", // window, open, close, tilt
+	"window": "",
+	
+	// States
+	"window#open": "", // Window
+	"window#open#opened": "", // open
+	"window#open#closed": "", // closed
+	"window#open#tilted": "" // tilted
+}
