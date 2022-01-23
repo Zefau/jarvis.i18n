@@ -1,2 +1,1 @@
-export default {	"keywords#fan": "", // fan, ventilator, blower
-	"fan": ""}
+export default {	"keywords#fan": "",	"fan": ""}
