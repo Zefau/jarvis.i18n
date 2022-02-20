@@ -38,7 +38,9 @@ export default {
 	"Icon": "",
 	"States": "",
 	"Options": "",
-	
+	"Suppress Popup": "",
+
+	"new state key": "",
 	"add state": "",
 	"add default states": ""
 }

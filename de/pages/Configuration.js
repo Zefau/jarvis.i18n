@@ -10,5 +10,6 @@ export default {
 	"Devices": "Geräte",
 	"Settings": "Einstellungen",
 	"Layout": "Layout",
+	"Help": "Hilfe",
 	"JSON Editor": "JSON Editor"
 }

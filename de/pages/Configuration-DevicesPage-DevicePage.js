@@ -38,7 +38,9 @@ export default {
 	"Icon": "Icon",
 	"States": "States",
 	"Options": "Optionen",
-	
+	"Suppress Popup": "Popup unterdrücken",
+
+	"new state key": "neuer Datenpunkt-Schlüssel",
 	"add state": "Datenpunkt hinzufügen",
 	"add default states": "Standard Datenpunkte"
 }

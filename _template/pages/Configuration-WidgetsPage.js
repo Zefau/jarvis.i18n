@@ -2,6 +2,13 @@ export default {
 	"Add Widget": "",
 	"Title": "",
 	"Module": "",
-	"Hide Widget Title and Icon": "",
-	"click to copy to clipboard": ""
+	"Usage": "",
+	"Tab": "",
+	"Page": "",
+	"Module Configuration": "",
+	"Hide Widget Label and Icon": "",
+	"Hide Separator": "",
+	"click to copy to clipboard": "",
+	"ID copied": "",
+	"inherited from the device configuration": ""
 }

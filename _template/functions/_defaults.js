@@ -17,14 +17,18 @@ export default {
 	"config#componentOptions#SwitchAction#triggerOffValue#label": "", // Deactivation value
 	"config#componentOptions#SwitchAction#triggerOffValue#info": "", // Value to set on deactivation
 	
+	"config#componentOptions#LevelBody#unit#label": "", // Use Device Unit
+	"config#componentOptions#LevelBody#unit#info": "", // Shows device unit with the markers
 	"config#componentOptions#LevelBody#step#label": "", // Marker Steps / Granularity (Selectable)
 	"config#componentOptions#LevelBody#step#info": "", // The granularity with which the slider can step through values. This granularity regulates which values are possible to pick and NOT which are shown as marks. A granularity of e.g. 1 allows to select 1, 2, 3, etc.; whereas e.g. 2 allows to select 1, 3, 5, etc.; Minimum (min) and maximum (max) values are defined in the device itself (in the properties field).
 	"config#componentOptions#LevelBody#showMarkersSteps#label": "", // Show Marker Steps
 	"config#componentOptions#LevelBody#showMarkersSteps#info": "", // Indicates the markers of the steps with its position number
 	"config#componentOptions#LevelBody#markStep#label": "", // Marker Steps / Granularity (Displayed)
 	"config#componentOptions#LevelBody#markStep#info": "", // The displayed granularity with which the slider. This granularity regulates the number of marks to be displayed. The calculation is based on min/max values of the device
-	"config#componentOptions#LevelBody#unit#label": "", // Use Device Unit
-	"config#componentOptions#LevelBody#unit#info": "", // Shows device unit with the markers
+	"config#componentOptions#LevelBody#markers#label": "", // Marker Label (Pro)
+	"config#componentOptions#LevelBody#markers#info": "", // Callback function to adapt the Marker Label
+	"config#componentOptions#LevelBody#markerHeight#label": "", // Height of Slider
+	"config#componentOptions#LevelBody#thumbSize#label": "", // Thickness of Slide Button
 	
 	"config#componentOptions#CustomTextBody#text#label": "", // Own custom text
 	"config#componentOptions#LastChangeBody#time#label": "", // Time
@@ -69,6 +73,8 @@ export default {
 	"lowBattery": "",
 	"full": "",
 	"low": "",
+	"turn on": "",
+	"turn off": "",
 	
 	// Component
 	"Display attribute of state %s must be defined": ""

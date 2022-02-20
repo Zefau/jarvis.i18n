@@ -17,14 +17,18 @@ export default {
 	"config#componentOptions#SwitchAction#triggerOffValue#label": "Wert Deaktivierung",
 	"config#componentOptions#SwitchAction#triggerOffValue#info": "Der Wert der für die Deaktivierung gesetzt werden soll",
 	
+	"config#componentOptions#LevelBody#unit#label": "Geräte-Einheit anzeigen",
+	"config#componentOptions#LevelBody#unit#info": "Zeigt die Geräte-Einheit in den Markierungen",
 	"config#componentOptions#LevelBody#step#label": "Schrittweite (auswählbare Schritte / Markierungen)",
 	"config#componentOptions#LevelBody#step#info": "Die Detailgenauigkeit der einzelnen Schritte des Sliders. Diese Detailgenauigkeit der Schritte bezieht sich auf mögliche Auswahl von Werten, NICHT die angezeigten Markierungen. Eine Schrittweite von z. B. 1 ermöglicht das Auswählen von 1, 2, 3, etc.; wohingegen eine Schrittweite von z. B. 2 das Auswählen von 1, 3, 5, etc. steuert. Die min / max Werte sind im Gerät (unter Eigenschaften) zu konfigurieren.",
 	"config#componentOptions#LevelBody#showMarkersSteps#label": "Schritte / Markierung zeigen",
 	"config#componentOptions#LevelBody#showMarkersSteps#info": "Zeigt für die Markierungen der Schtittweite die jeweilge numerische Längenangabe",
 	"config#componentOptions#LevelBody#markStep#label": "Anzahl der Markierungen",
 	"config#componentOptions#LevelBody#markStep#info": "Die Anzahl der Markierungen des Sliders, die gezeigt werden sollen. Die Berechnung erfolgt auf Basis der min / max Werte: (max-min) / Markierungen. Für min=5, max=35 und einem hier definierten Wert für die Markierungen von 10 = (35-5)/10 = jede 3. Schrittweite eine Markierung Zusätzlich wird der 0-Punkt immer angezeigt.",
-	"config#componentOptions#LevelBody#unit#label": "Geräte-Einheit anzeigen",
-	"config#componentOptions#LevelBody#unit#info": "Zeigt die Geräte-Einheit in den Markierungen",
+	"config#componentOptions#LevelBody#markers#label": "Marker Label (Pro)",
+	"config#componentOptions#LevelBody#markers#info": "Callback-Funktion, um das Marker Label anzupassen",
+	"config#componentOptions#LevelBody#markerHeight#label": "Höhe der Slider-Leiste",
+	"config#componentOptions#LevelBody#thumbSize#label": "Dicke des Slide-Buttons",
 	
 	"config#componentOptions#CustomTextBody#text#label": "Eigener Text",
 	"config#componentOptions#LastChangeBody#time#label": "Zeitdarstellung",
@@ -69,6 +73,8 @@ export default {
 	"lowBattery": "Batterie",
 	"full": "voll",
 	"low": "niedrig",
+	"turn on": "anschalten",
+	"turn off": "ausschalten",
 	
 	// Component
 	"Display attribute of state %s must be defined": "Display Attribut des Datenpunkts %s muss definiert werden"

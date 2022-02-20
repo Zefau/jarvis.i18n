@@ -4,10 +4,10 @@ export default {
 	// Config
 	"config#JsonTable#thead#label": "", // Columns
 	"config#JsonTable#thead#description": "", // Configuration of the displayed columns with the option
-	"config#JsonTable#thead#placeholder": "", // [{ \"field\
+	"config#JsonTable#thead#placeholder": "", // [{'{ \"field\
 	
 	"config#JsonTable#object#label": "", // Object-Mode
-	"config#JsonTable#object#description": "", // Source data is object-formatted { 'key
+	"config#JsonTable#object#description": "", // Source data is object-formatted {'{ \"key\
 	
 	"config#JsonTable#sortable#label": "", // Sortation
 	"config#JsonTable#sortable#description": "", // Enable / disable sortation

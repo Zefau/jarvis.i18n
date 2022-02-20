@@ -3,11 +3,11 @@ export default {
 	
 	// Config
 	"config#JsonTable#thead#label": "Spalten",
-	"config#JsonTable#thead#description": "Konfiguration der anzuzeigenden Spalten mit den Optionen: label, align [ left | center | right ], sortable [ true | false ], noWrap [ true | false ], format [ val => {} ], disablePadding [ true | false ], width, style, headerStyle, classes, visible [ true | false ]",
-	"config#JsonTable#thead#placeholder": "[{ \"field\": \"originale Spalten-ID (muss eindeutig sein)\", \"label\": \"eigener Spaltenbezeichner\", \"align\": \"[ left | center | right ]\", \"sortable\": \"[ true | false ]\", \"format\": val => {}, \"classes\": \"eigeneCssKlasse\" }]",
+	"config#JsonTable#thead#description": "Konfiguration der anzuzeigenden Spalten mit den Optionen: label, align [ left | center | right ], sortable [ true | false ], noWrap [ true | false ], format [ val => {'{}'} ], disablePadding [ true | false ], width, style, headerStyle, classes, visible [ true | false ]",
+	"config#JsonTable#thead#placeholder": "[{'{ \"field\": \"originale Spalten-ID (muss eindeutig sein)\", \"label\": \"eigener Spaltenbezeichner\", \"align\": \"[ left | center | right ]\", \"sortable\": \"[ true | false ]\", \"format\": val => {}, \"classes\": \"eigeneCssKlasse\" }'}]",
 	
 	"config#JsonTable#object#label": "Objekt-Modus",
-	"config#JsonTable#object#description": "Quelldaten liegen als Objekt { 'key': 'value', ... } und nicht als Liste / Array vor",
+	"config#JsonTable#object#description": "Quelldaten liegen als Objekt {'{ \"key\": \"value\", ... }'} und nicht als Liste / Array vor",
 	
 	"config#JsonTable#sortable#label": "Sortierung",
 	"config#JsonTable#sortable#description": "Möglichkeit zur Sortierung (de)aktivieren",
