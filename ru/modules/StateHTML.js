@@ -1,5 +1,5 @@
 export default {
-	"StateHTML#description": "", // Displays dynamic HTML contents from states.
+	"StateHTML#description": "Отображает содержимое динамического HTML из статуса", // Displays dynamic HTML contents from states.
 	
-	"Incorrect HTML provided to StateHTML module": ""
+	"Incorrect HTML provided to StateHTML module": "Модулю StateHTML передан некорректный HTML"
 }
