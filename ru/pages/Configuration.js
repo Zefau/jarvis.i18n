@@ -1,14 +1,14 @@
 export default {
-	"Save": "",
-	"Exit": "",
-	"Apply": "",
-	"Cancel": "",
+	"Save": "Сохранить",
+	"Exit": "Выход",
+	"Apply": "Применить",
+	"Cancel": "Отмена",
 	
-	"Invalid JSON format": "",
-	"Configuration": "",
-	"Expert mode": "",
-	"Devices": "",
-	"Settings": "",
-	"Layout": "",
-	"JSON Editor": ""
+	"Invalid JSON format": "Некорректный формат JSON",
+	"Configuration": "Конфигурация",
+	"Expert mode": "Экспертный режим",
+	"Devices": "Устройства",
+	"Settings": "Настройки",
+	"Layout": "Макет",
+	"JSON Editor": "Редактор JSON"
 }

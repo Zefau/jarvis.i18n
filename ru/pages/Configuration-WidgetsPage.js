@@ -1,7 +1,7 @@
 export default {
-	"Add Widget": "",
-	"Title": "",
-	"Module": "",
-	"Hide Widget Title and Icon": "",
-	"click to copy to clipboard": ""
+	"Add Widget": "Добавить виджет",
+	"Title": "Заголовок",
+	"Module": "Модуль",
+	"Hide Widget Title and Icon": "Скрыть заголовок и иконку виждета",
+	"click to copy to clipboard": "кликнуть чтобы скопировать в буфер"
 }

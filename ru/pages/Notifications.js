@@ -1,5 +1,5 @@
 export default {
-	"Notifications": "",
-	"hide archived notifications": "",
-	"show archived notifications": ""
+	"Notifications": "Уведомления",
+	"hide archived notifications": "скрыть архивные уведомления",
+	"show archived notifications": "показать архивные уведомления"
 }

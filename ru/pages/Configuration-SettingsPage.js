@@ -1,19 +1,19 @@
 export default {
 	
 	// Page Settings
-	"Page Settings": "",
-	"Language settings for jarvis": "",
-	"Browser favicon": "",
-	"(Browser favicon info)": "",
-	"Browser title": "",
-	"Return to Homepage": "",
-	"(Return to Homepage info)": "",
+	"Page Settings": "Настройки страницы",
+	"Language settings for jarvis": "Настройки языка для jarvis",
+	"Browser favicon": "Иконка сайта",
+	"(Browser favicon info)": "(В формате base64)",
+	"Browser title": "Заголовок браузера",
+	"Return to Homepage": "Возврат на домашнюю страницу",
+	"(Return to Homepage info)": "Возврат на домашнюю страницу после определенного времени (в секундах)",
 	
 	// Sidebar & Tabs Settings
-	"Sidebar & Tabs Settings": "",
-	"Drawer Mini mode": "",
-	"Show Settings Button in Drawer": "",
-	"Collapse Tabs": "",
+	"Sidebar & Tabs Settings": "Настройки боковой панели и вкладок",
+	"Drawer Mini mode": "Мини режим выдвижной панели",
+	"Show Settings Button in Drawer": "Показывать кнопку настроек в выдвижной панели",
+	"Collapse Tabs": "Свернуть вкладки",
 	"(Collapse Tabs info)": "",
 	"Dense Tabs": "",
 	"Tabs on bottom of page": "",
