@@ -1,26 +1,26 @@
 export default {
-	"Really delete item?": "",
-	"show in sidebar": "",
+	"Really delete item?": "Действительно удалить объект?",
+	"show in sidebar": "показать на боковой панели",
 	
-	"copy": "",
-	"delete": "",
+	"copy": "копировать",
+	"delete": "удалить",
 	
-	"Drawer": "",
-	"Pages": "",
-	"Page": "",
-	"Add Page": "",
-	"Add Divider": "",
-	"Add Header": "",
-	"Add Tab": "",
+	"Drawer": "Выдвижная панель",
+	"Pages": "Страницы",
+	"Page": "Страница",
+	"Add Page": "Добавить страницу",
+	"Add Divider": "Добавить разделитель",
+	"Add Header": "Добавить заголовок",
+	"Add Tab": "Добавить вкладку",
 	
-	"Title": "",
+	"Title": "Заголовок",
 	
-	"Icon Color": "",
-	"Font Color": "",
-	"Background Color": "",
+	"Icon Color": "Цвет иконки",
+	"Font Color": "Цвет шрифта",
+	"Background Color": "Цвет фона",
 	
-	"Fullscreen": "",
-	"Widgets edges (round or angled)": "",
-	"Widgets of tab": "",
-	"Use same layout as": ""
+	"Fullscreen": "Полный экран",
+	"Widgets edges (round or angled)": "Углы виджета (закругленные или острые)",
+	"Widgets of tab": "Виджеты на вкладке",
+	"Use same layout as": "Использовать макет как:"
 }

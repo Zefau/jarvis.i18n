@@ -1,25 +1,25 @@
 export default {
-	"Account & ioBroker Installations": "",
-	"Buy": "",
-	"Subscribe": "",
-	"User": "",
-	"Sign In": "",
-	"Licence valid for following installation": "",
-	"Bills": "",
-	"Login first to buy & subscribe": "",
-	"buy now": "",
-	"Legal Remarks": "",
+	"Account & ioBroker Installations": "Учетная запись и инсталляция ioBroker",
+	"Buy": "Купить",
+	"Subscribe": "Подписка",
+	"User": "Пользователь",
+	"Sign In": "Войти",
+	"Licence valid for following installation": "Лицензия действует для следующих инсталляций",
+	"Bills": "Счета",
+	"Login first to buy & subscribe": "Войдите для покупки и оформления подписки",
+	"buy now": "купить сейчас",
+	"Legal Remarks": "Юридические замечания",
 	
 	//
 	// https://www.mydealz.de/ratgeber/gewaehrleistung
 	"Support by buying": [
-		"I hope you enjoy jarvis and it enriches your smarthome.",
-		"If you are missing a certain functionality or you found a bug, please [do not hesitate to create an issue on Github](https://github.com/Zefau/ioBroker.jarvis/issues).",
-		"If you are facing problems or having questions, [please see the Wiki](https://github.com/Zefau/ioBroker.jarvis/wiki) or [ask in the forum](https://forum.iobroker.net/topic/49776).",
-		"With v3 the possibility of a subscription is introduced, which enables Pro-Features. An [overview of the Pro-Features can be found on Github](https://github.com/Zefau/ioBroker.jarvis/discussions/891). The subscription can be quit any time and in that case the licence validity will last until the subscribed period end. In case of difficulties, please feel free to write me via [ioBroker.jarvis@mailbox.org](mailto:ioBroker.jarvis@mailbox.org).",
-		"The subscription costs 12,00 EUR in a year.",
-		"Please understand this not only as a payment, but also as an award and support for the development of this adapter.",
-		"**Thanks in advanced for your support!**"
+		"Я надеюсь, что Вам нравится jarvis, и он позволяет сделать приятным взаимодействие с Вашим умным домом.",
+		"Если Вам не хватает какой-либо функциональности или вы нашли ошибку, пожалуйста, [не стесняйтесь создавать проблему на Github](https://github.com/Zefau/ioBroker.jarvis/issues).",
+		"Если Вы столкнулись с проблемами или у Вас появились вопросы, [пожалуйста, поробуйте найти решение в Wiki](https://github.com/Zefau/ioBroker.jarvis/wiki) или [задайте вопрос на форме](https://forum.iobroker.net/topic/49776).",
+		"Начиная с версии 3 появилась возможность подписки, предоставляющей доступ к оасширенным функциям. [перечень расширенных функций Вы модете найти на Github](https://github.com/Zefau/ioBroker.jarvis/discussions/891). Подписка может быть прекращена в любое время, в этом случае лицензия будет действовать до конца оплаченного периода. В случае каких-либо затруднений, пжалуйста, пишите мне на [ioBroker.jarvis@mailbox.org](mailto:ioBroker.jarvis@mailbox.org).",
+		"Стоимость подписки 12,00 EUR в год.",
+		"Пожалуйста, воспринимайте подписку не просто как платеж, а также как поддержку развития проекта и награду для автора.",
+		"**Большое спасибо за вашу поддержку!**"
 	],
 	"Disclaimer": [
 		""

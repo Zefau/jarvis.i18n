@@ -1,15 +1,15 @@
 export default {
 	
 	// Component
-	"Devices List": "",
-	"Import Devices": "",
-	"Add Device": "",
+	"Devices List": "Список устройств",
+	"Import Devices": "Импортировать устройства",
+	"Add Device": "Добавить устройство",
 	
-	"Group by": "",
-	"Filter": "",
-	"Quick Actions": "",
-	"Swap Device Name and Label": "",
+	"Group by": "Группировать по",
+	"Filter": "Фильтр",
+	"Quick Actions": "Быстрые действия",
+	"Swap Device Name and Label": "Поменять местами имя устройства и метку",
 	
-	"without label": "",
-	"Devices per page": ""
+	"without label": "без метки",
+	"Devices per page": "Устройств на странице:"
 }
