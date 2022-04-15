@@ -7,7 +7,7 @@ Help translate jarvis to your language!
 ## Status
 | Language | Translations | Not Translated | Progress |
 | `[de](de)` | 731 | 3 | 99.59% |
-| `[de](de)` | 668 | 3 | 99.55% |
+| `[ru](ru)` | 581 | 10 | 98.28% |
 
 
 ## How To
