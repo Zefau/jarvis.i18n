@@ -10,7 +10,7 @@ export default {
 	
 	"config#componentOptions#SwitchAction#colorOn#label": "Цвет (включено)", // Color (on)
 	"config#componentOptions#SwitchAction#colorOff#label": "Цвет (выключено)", // Color (off)
-	"config#componentOptions#SwitchAction#color#info": "Material-Brand-Color (шестнадцатеричные кодв не поддерживаются), siehe http", // Material-Brand-Color (Hex-Codes are not supported), siehe http
+	"config#componentOptions#SwitchAction#color#info": "Material-Brand-Color (шестнадцатеричные кодв не поддерживаются)", // Material-Brand-Color (Hex-Codes are not supported), siehe http
 	
 	"config#componentOptions#SwitchAction#triggerOnValue#label": "Значение активации", // Activation value
 	"config#componentOptions#SwitchAction#triggerOnValue#info": "Значение для активации", // Value to set on activation
