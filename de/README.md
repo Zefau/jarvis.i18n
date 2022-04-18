@@ -3,13 +3,13 @@
 | [`config/tours-configuration.js`](entry) | 42 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`config/tours-interface.js`](entry) | 15 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`config/tours-introduction.js`](entry) | 9 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
-| [`functions/_defaults.js`](entry) | 67 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
+| [`functions/_defaults.js`](entry) | 71 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/blind.js`](entry) | 11 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/door.js`](entry) | 9 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/fan.js`](entry) | 2 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/heating.js`](entry) | 7 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/household.js`](entry) | 2 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
-| [`functions/light.js`](entry) | 17 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
+| [`functions/light.js`](entry) | 19 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/location.js`](entry) | 8 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/motion.js`](entry) | 2 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/mower.js`](entry) | 2 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
@@ -48,8 +48,8 @@
 | [`pages/Configuration-DevicesPage-ImportDevices.js`](entry) | 14 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`pages/Configuration-HelpPage.js`](entry) | 16 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`pages/Configuration.js`](entry) | 12 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
-| [`pages/Configuration-LayoutsPage.js`](entry) | 54 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
-| [`pages/Configuration-SettingsPage.js`](entry) | 33 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
+| [`pages/Configuration-LayoutsPage.js`](entry) | 55 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
+| [`pages/Configuration-SettingsPage.js`](entry) | 35 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`pages/Configuration-WidgetsPage.js`](entry) | 12 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`pages.js`](entry) | 1 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`pages/Notifications.js`](entry) | 8 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |

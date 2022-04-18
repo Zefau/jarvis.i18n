@@ -9,6 +9,10 @@ export default {
 	"Saturation": "Sättigung",
 	"Brightness": "Helligkeit",
 	
+	// Config
+	"config#componentOptions#LightHueBody#min#label": "minimaler Hue °-Wert",
+	"config#componentOptions#LightHueBody#max#label": "maximaler Hue °-Wert",
+	
 	// States
 	"light#ct": "Farbtemperatur",
 	"light#colorTemperature": "Farbtemperatur",

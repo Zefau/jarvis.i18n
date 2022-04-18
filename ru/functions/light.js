@@ -9,6 +9,10 @@ export default {
 	"Saturation": "Насыщенность (Saturation)",
 	"Brightness": "Яркость (Brightness)",
 	
+	// Config
+	"config#componentOptions#LightHueBody#min#label": "",
+	"config#componentOptions#LightHueBody#max#label": "",
+	
 	// States
 	"light#ct": "Цветовая температура", // Color Temperature
 	"light#colorTemperature": "Цветовая температура", // Color Temperature

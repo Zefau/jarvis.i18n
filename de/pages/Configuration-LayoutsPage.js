@@ -3,6 +3,7 @@ export default {
 	
 	"Really delete item?": "Wirklich löschen?",
 	"show in sidebar": "in Drawer anzeigen",
+	"show button": "Button anzeigen",
 	
 	"Widgets per page": "Widgets pro Seite",
 	

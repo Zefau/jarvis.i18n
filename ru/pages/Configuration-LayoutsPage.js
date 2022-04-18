@@ -1,6 +1,7 @@
 export default {
 	"Really delete item?": "Действительно удалить объект?",
 	"show in sidebar": "показать на боковой панели",
+	"show button": "",
 	
 	"copy": "копировать",
 	"delete": "удалить",

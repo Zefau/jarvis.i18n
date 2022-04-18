@@ -7,6 +7,10 @@ export default {
 	"config#componentOptions#_all#val#info": "Datenpunkt-Wert basiert auf dem Rohwert (val) oder dem durch die Anzeige-Variante verarbeitetem Wert (value)",
 	"config#componentOptions#_all#val#options#val": "Rohwert (val)",
 	"config#componentOptions#_all#val#options#value": "Verarbeiteter Wert (value)",
+	"config#componentOptions#_all#ack#label": "Datenpunkt-Acknowledge",
+	"config#componentOptions#_all#ack#info": "Kommando hat das ack-Flag false und wird durch den Benutzer gesetzt, um das Gerät zu kontrollieren. Der Status hat das ack-Flag true und wird durch das Gerät / den Service / den Adapter gesetzt.",
+	"config#componentOptions#_all#ack#options#true": "Status (ack ist true)",
+	"config#componentOptions#_all#ack#options#false": "Kommando (ack ist false)",
 	
 	"config#componentOptions#SwitchAction#colorOn#label": "Farbe (an)",
 	"config#componentOptions#SwitchAction#colorOff#label": "Farbe (aus)",

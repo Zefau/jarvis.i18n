@@ -7,6 +7,10 @@ export default {
 	"config#componentOptions#_all#val#info": "Необработанное значение статуса (val), или обработанное значение статуса с учетом варианта отображения (value)",
 	"config#componentOptions#_all#val#options#val": "Необработанное значение",
 	"config#componentOptions#_all#val#options#value": "Обработанное значение",
+	"config#componentOptions#_all#ack#label": "",
+	"config#componentOptions#_all#ack#info": "",
+	"config#componentOptions#_all#ack#options#true": "",
+	"config#componentOptions#_all#ack#options#false": "",
 	
 	"config#componentOptions#SwitchAction#colorOn#label": "Цвет (включено)", // Color (on)
 	"config#componentOptions#SwitchAction#colorOff#label": "Цвет (выключено)", // Color (off)

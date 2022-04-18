@@ -3,10 +3,14 @@ export default {
 	"other": "",
 	
 	// Config
-	"config#componentOptions#_all#val#label": "",
-	"config#componentOptions#_all#val#info": "",
-	"config#componentOptions#_all#val#options#val": "",
-	"config#componentOptions#_all#val#options#value": "",
+	"config#componentOptions#_all#val#label": "", // State Value
+	"config#componentOptions#_all#val#info": "", // The state value can either be the raw value (from the state) or the processed value (by display jarvis attributes).
+	"config#componentOptions#_all#val#options#val": "", // Raw (val)
+	"config#componentOptions#_all#val#options#value": "", // Processed (value)
+	"config#componentOptions#_all#ack#label": "", // State-Acknowledge
+	"config#componentOptions#_all#ack#info": "", // Command has ack flag as false and will be sent by user (over vis, javascript-adapter, admin) to control the devices or specific adapter. Status has ack flag as true and indicate that it is from device or service.
+	"config#componentOptions#_all#ack#options#true": "", // Status (ack is true)
+	"config#componentOptions#_all#ack#options#false": "", // Command (ack is false)
 	
 	"config#componentOptions#SwitchAction#colorOn#label": "", // Color (on)
 	"config#componentOptions#SwitchAction#colorOff#label": "", // Color (off)

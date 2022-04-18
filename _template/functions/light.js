@@ -9,6 +9,10 @@ export default {
 	"Saturation": "",
 	"Brightness": "",
 	
+	// Config
+	"config#componentOptions#LightHueBody#min#label": "", // minimal hue ° value
+	"config#componentOptions#LightHueBody#max#label": "", // maximal hue ° value
+	
 	// States
 	"light#ct": "", // Color Temperature
 	"light#colorTemperature": "", // Color Temperature
