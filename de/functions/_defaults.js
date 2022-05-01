@@ -42,7 +42,7 @@ export default {
 	
 	"config#componentOptions#IconButtonAction#pushButton#label": "Taster",
 	"config#componentOptions#IconButtonAction#pushButton#info": "Button als Taster verwenden",
-	"config#componentOptions#IconButtonAction#flat#label": "Stil",
+	"config#componentOptions#IconButtonAction#flat#label": "Umrandung",
 	"config#componentOptions#IconButtonAction#flat#info": "Zeige Button mit (false) oder ohne Umrandung (true)",
 	"config#componentOptions#IconButtonAction#iconTurnOn#label": "Icon (an)",
 	"config#componentOptions#IconButtonAction#iconTurnOff#label": "Icon (aus)",
@@ -81,5 +81,5 @@ export default {
 	"turn off": "ausschalten",
 	
 	// Component
-	"Display attribute of state %s must be defined": "Display Attribut des Datenpunkts %s muss definiert werden"
+	"Display attribute of state %s must be defined": "Anzeige-Variante des Datenpunkts %s muss definiert werden"
 }
