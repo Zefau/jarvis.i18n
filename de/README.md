@@ -3,7 +3,7 @@
 | [`config/tours-configuration.js`](entry) | 42 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`config/tours-interface.js`](entry) | 15 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`config/tours-introduction.js`](entry) | 9 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
-| [`functions/_defaults.js`](entry) | 71 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
+| [`functions/_defaults.js`](entry) | 85 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/blind.js`](entry) | 11 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/door.js`](entry) | 9 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/fan.js`](entry) | 2 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |

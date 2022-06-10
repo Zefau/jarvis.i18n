@@ -58,6 +58,22 @@ export default {
 	"config#componentOptions#ButtonAction#labelTurnOn#label": "Label (an)",
 	"config#componentOptions#ButtonAction#labelTurnOff#label": "Label (aus)",
 	
+	"config#componentOptions#TimePicker#mask#label": "Maskierung",
+	"config#componentOptions#TimePicker#mask#info": "Maskierung / Formatierung zur Darstellung der Datumswerte",
+	"config#componentOptions#TimePicker#landscape#label": "Querformat",
+	"config#componentOptions#TimePicker#landscape#info": "Zeigt den TimePicker im Querformat",
+	"config#componentOptions#TimePicker#minimal#label": "Kompakt",
+	//"config#componentOptions#TimePicker#minimal#info": "Compact Mode",
+	"config#componentOptions#TimePicker#nowButton#label": "Jetzt-Button",
+	"config#componentOptions#TimePicker#nowButton#info": "Zeigt den Jetzt-Button zum Ausfüllen der aktuellen Zeit an",
+	"config#componentOptions#TimePicker#format24h#label": "AM/PM oder 24 Stunden",
+	"config#componentOptions#TimePicker#format24h#info": "Zeigt 24 Stunden statt AM/PM an",
+	"config#componentOptions#TimePicker#withSeconds#label": "Sekunden",
+	"config#componentOptions#TimePicker#withSeconds#info": "Ermöglicht das Setzen der Zeit mit Sekunden",
+	
+	"config#componentOptions#DatePicker#today-btn#label": "Heute-Button",
+	"config#componentOptions#TimePicker#nowButton#info": "Zeigt den Heute-Button zum Ausfüllen des aktuellen Datums an",
+	
 	// States
 	"defaults#off": "aus",
 	"defaults#on": "an",

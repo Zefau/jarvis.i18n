@@ -58,6 +58,22 @@ export default {
 	"config#componentOptions#ButtonAction#labelTurnOn#label": "", // Label (on)
 	"config#componentOptions#ButtonAction#labelTurnOff#label": "", // Label (off)
 	
+	"config#componentOptions#TimePicker#mask#label": "", // Mask
+	"config#componentOptions#TimePicker#mask#info": "", // Mask (formatting string) used for parsing and formatting value
+	"config#componentOptions#TimePicker#landscape#label": "", // Landscape
+	"config#componentOptions#TimePicker#landscape#info": "", // Display the component in landscape mode
+	"config#componentOptions#TimePicker#minimal#label": "", // Compact
+	//"config#componentOptions#TimePicker#minimal#info": "", // Compact Mode
+	"config#componentOptions#TimePicker#nowButton#label": "", // Now-Button
+	"config#componentOptions#TimePicker#nowButton#info": "", // Display Now Button to fill-in current time // Display Today Button to fill-in current date
+	"config#componentOptions#TimePicker#format24h#label": "", // AM/PM or 24 Hours
+	"config#componentOptions#TimePicker#format24h#info": "", // Forces 24 hour time display instead of AM/PM system
+	"config#componentOptions#TimePicker#withSeconds#label": "", // Seconds
+	"config#componentOptions#TimePicker#withSeconds#info": "", // Allow the time to be set with seconds
+	
+	"config#componentOptions#DatePicker#today-btn#label": "", // Today-Button
+	"config#componentOptions#TimePicker#nowButton#info": "",
+	
 	// States
 	"defaults#off": "", // off
 	"defaults#on": "", // on

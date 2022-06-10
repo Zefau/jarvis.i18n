@@ -21,14 +21,18 @@ export default {
 	"config#componentOptions#SwitchAction#triggerOffValue#label": "Значение деактивации", // Deactivation value
 	"config#componentOptions#SwitchAction#triggerOffValue#info": "Значение для деактивации", // Value to set on deactivation
 	
+	"config#componentOptions#LevelBody#unit#label": "Использование единиц измерения устройства", // Use Device Unit
+	"config#componentOptions#LevelBody#unit#info": "Отображение единиц измерения устройства на маркерах", // Shows device unit with the markers
 	"config#componentOptions#LevelBody#step#label": "Маркер шага (Выбор)", // Marker Steps / Granularity (Selectable)
 	"config#componentOptions#LevelBody#step#info": "Шаг, с которым можно выбирать значения слайдера. Шаг определяет, какие значения доступны для выбора и отображаются на слайдере. Шаг 1, например, позволяет выбрать значения 1, 2, 3..., шаг 2 позволяет выбрать 1, 3, 5... Минимальное и максимальное значения определяются в настройках устройства", // The granularity with which the slider can step through values. This granularity regulates which values are possible to pick and NOT which are shown as marks. A granularity of e.g. 1 allows to select 1, 2, 3, etc.; whereas e.g. 2 allows to select 1, 3, 5, etc.; Minimum (min) and maximum (max) values are defined in the device itself (in the properties field).
 	"config#componentOptions#LevelBody#showMarkersSteps#label": "Показать шаг маркера", // Show Marker Steps
 	"config#componentOptions#LevelBody#showMarkersSteps#info": "Указывает маркеры шагов с номарами их позиции", // Indicates the markers of the steps with its position number
 	"config#componentOptions#LevelBody#markStep#label": "Маркер шага (Отображение)", // Marker Steps / Granularity (Displayed)
 	"config#componentOptions#LevelBody#markStep#info": "Отображение шага на слайдере. Шаг определяет количество маркеров для отображения. Расчет базируется на минимальном/максимальном значениях, определенныхв настройках усстройства", // The displayed granularity with which the slider. This granularity regulates the number of marks to be displayed. The calculation is based on min/max values of the device
-	"config#componentOptions#LevelBody#unit#label": "Использование единиц измерения устройства", // Use Device Unit
-	"config#componentOptions#LevelBody#unit#info": "Отображение единиц измерения устройства на маркерах", // Shows device unit with the markers
+	"config#componentOptions#LevelBody#markers#label": "",
+	"config#componentOptions#LevelBody#markers#info": "",
+	"config#componentOptions#LevelBody#markerHeight#label": "",
+	"config#componentOptions#LevelBody#thumbSize#label": "",
 	
 	"config#componentOptions#CustomTextBody#text#label": "Ваш текст", // Own custom text
 	"config#componentOptions#LastChangeBody#time#label": "Время", // Time
@@ -53,6 +57,22 @@ export default {
 	
 	"config#componentOptions#ButtonAction#labelTurnOn#label": "Подпись (включено)", // Label (on)
 	"config#componentOptions#ButtonAction#labelTurnOff#label": "Подпись (выключено)", // Label (off)
+	
+	"config#componentOptions#TimePicker#mask#label": "",
+	"config#componentOptions#TimePicker#mask#info": "",
+	"config#componentOptions#TimePicker#landscape#label": "",
+	"config#componentOptions#TimePicker#landscape#info": "",
+	"config#componentOptions#TimePicker#minimal#label": "",
+	//"config#componentOptions#TimePicker#minimal#info": "",
+	"config#componentOptions#TimePicker#nowButton#label": "",
+	"config#componentOptions#TimePicker#nowButton#info": "",
+	"config#componentOptions#TimePicker#format24h#label": "",
+	"config#componentOptions#TimePicker#format24h#info": "",
+	"config#componentOptions#TimePicker#withSeconds#label": "",
+	"config#componentOptions#TimePicker#withSeconds#info": "",
+	
+	"config#componentOptions#DatePicker#today-btn#label": "",
+	"config#componentOptions#DatePicker#today-btn#info": "",
 	
 	// States
 	"defaults#off": "выключено", // off
