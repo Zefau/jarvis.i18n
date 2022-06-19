@@ -74,6 +74,9 @@ export default {
 	"config#componentOptions#DatePicker#today-btn#label": "",
 	"config#componentOptions#DatePicker#today-btn#info": "",
 	
+	"config#componentOptions#ButtonAction#useDisplay#label": "",
+	"config#componentOptions#ButtonAction#useDisplay#info": "",
+	
 	// States
 	"defaults#off": "выключено", // off
 	"defaults#on": "включено", // on

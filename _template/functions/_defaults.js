@@ -74,6 +74,9 @@ export default {
 	"config#componentOptions#DatePicker#today-btn#label": "", // Today-Button
 	"config#componentOptions#TimePicker#nowButton#info": "",
 	
+	"config#componentOptions#ButtonAction#useDisplay#label": "", // Use Display Attribute
+	"config#componentOptions#ButtonAction#useDisplay#info": "", // Use Display Attribute of State Configuration as Buttons (instead of label and icon component config)
+	
 	// States
 	"defaults#off": "", // off
 	"defaults#on": "", // on

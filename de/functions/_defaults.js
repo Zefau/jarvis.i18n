@@ -74,6 +74,9 @@ export default {
 	"config#componentOptions#DatePicker#today-btn#label": "Heute-Button",
 	"config#componentOptions#TimePicker#nowButton#info": "Zeigt den Heute-Button zum Ausfüllen des aktuellen Datums an",
 	
+	"config#componentOptions#ButtonAction#useDisplay#label": "Anzeige-Variante benutzen",
+	"config#componentOptions#ButtonAction#useDisplay#info": "Anzeige-Variante der Datenpunkt-Konfiguration als Buttons benutzen (statt Label und Icon der Komponenten Konfiguration)",
+	
 	// States
 	"defaults#off": "aus",
 	"defaults#on": "an",
