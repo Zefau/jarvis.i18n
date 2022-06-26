@@ -11,5 +11,6 @@ export default {
 	"config#DateTime#calendarweek#label": "Zeigt die aktuelle Kalenderwoche",
 	
 	// Component
-	"Time": "Zeit"
+	"Time": "Zeit",
+	"CW": "KW"
 }

@@ -25,11 +25,11 @@
 | [`functions/vacuum.js`](entry) | 2 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/weather_station.js`](entry) | 2 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`functions/window.js`](entry) | 6 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
-| [`modules/AdapterLogs.js`](entry) | 1 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
+| [`modules/AdapterLogs.js`](entry) | 9 | 8 | 11.11% ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
 | [`modules/AdapterStatus.js`](entry) | 21 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
-| [`modules/Calendar.js`](entry) | 29 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
+| [`modules/Calendar.js`](entry) | 30 | 1 | 96.67% ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
 | [`modules/Chart.js`](entry) | 17 | 3 | 82.35% ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| [`modules/DateTime.js`](entry) | 9 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
+| [`modules/DateTime.js`](entry) | 10 | 1 | 90% ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
 | [`modules/DisplayImage.js`](entry) | 21 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`modules/HistoryGraph.js`](entry) | 27 | 1 | 96.3% ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
 | [`modules/HomeKitTile.js`](entry) | 21 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
@@ -48,8 +48,8 @@
 | [`pages/Configuration-DevicesPage-ImportDevices.js`](entry) | 14 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`pages/Configuration-HelpPage.js`](entry) | 0 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`pages/Configuration.js`](entry) | 11 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
-| [`pages/Configuration-LayoutsPage.js`](entry) | 21 | 1 | 95.24% ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| [`pages/Configuration-LayoutsPage.js`](entry) | 25 | 5 | 80% ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
 | [`pages/Configuration-SettingsPage.js`](entry) | 35 | 2 | 94.29% ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| [`pages/Configuration-WidgetsPage.js`](entry) | 5 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
+| [`pages/Configuration-WidgetsPage.js`](entry) | 13 | 8 | 38.46% ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
 | [`pages.js`](entry) | 1 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`pages/Notifications.js`](entry) | 3 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |

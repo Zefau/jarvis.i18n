@@ -6,6 +6,7 @@ export default {
 	"Tab": "Tab",
 	"Page": "Seite",
 	"Module Configuration": "Modul Konfiguration",
+	"Module Devices": "Modul Geräte",
 	"Hide Widget Label and Icon": "Widget Label und Icon verstecken",
 	"Hide Separator": "Trennlinie verbergen",
 	"click to copy to clipboard": "Klicken zum Kopieren in die Zwischenablage",

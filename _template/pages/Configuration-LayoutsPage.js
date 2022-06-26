@@ -1,6 +1,13 @@
 export default {
 	"Only a single page is allowed without Pro. A single page may hold infinite tabs though.": "",
 	
+	// Config
+	"config#Layout#bodySelectedStyle#label": "", // Body Style (selected element)
+	"config#Layout#bodySelectedStyle#info": "", // Body Style of the container of a selected element (in JSON Format)
+	"config#Layout#iconSelectedStyle#label": "", // Icon Style (selected element)
+	"config#Layout#iconSelectedStyle#info": "", // Icon Style of the icon of a selected element (in JSON Format)
+	
+	// Component
 	"Really delete item?": "",
 	"show in sidebar": "",
 	"show button": "",

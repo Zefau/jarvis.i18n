@@ -1,6 +1,13 @@
 export default {
 	"Only a single page is allowed without Pro. A single page may hold infinite tabs though.": "Nur eine Seite ist ohne Pro-Account möglich. Eine einzelne Seite kann allerdings unbegrenzte Tabs beinhalten.",
 	
+	// Config
+	"config#Layout#bodySelectedStyle#label": "Body Stil (ausgewähltes Element)",
+	"config#Layout#bodySelectedStyle#info": "Stil des Bodys / Containers eines ausgewählten Elements (im JSON Format)",
+	"config#Layout#iconSelectedStyle#label": "Icon Stil (ausgewähltes Element)",
+	"config#Layout#iconSelectedStyle#info": "Stil des Icons eines ausgewählten Elements (im JSON Format)",
+	
+	// Component
 	"Really delete item?": "Wirklich löschen?",
 	"show in sidebar": "in Drawer anzeigen",
 	"show button": "Button anzeigen",

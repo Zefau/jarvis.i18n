@@ -34,6 +34,7 @@ export default {
 	
 	// other
 	"all day": "ganztägig",
+	"several days": "mehrtägig",
 	"No events": "keine Termine",
 	"Calendar Details": "Kalender Details"
 }

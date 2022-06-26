@@ -34,6 +34,7 @@ export default {
 	
 	// other
 	"all day": "",
+	"several days": "",
 	"No events": "",
 	"Calendar Details": ""
 }

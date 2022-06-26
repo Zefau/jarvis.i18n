@@ -34,6 +34,7 @@ export default {
 	
 	// other
 	"all day": "весь день",
+	"several days": "",
 	"No events": "Нет событий",
 	"Calendar Details": "Подробности"
 }

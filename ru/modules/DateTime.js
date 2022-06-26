@@ -11,5 +11,6 @@ export default {
 	"config#DateTime#calendarweek#label": "Отображать текущий день недели", // Display current calendar week
 	
 	// Component
-	"Time": "Время"
+	"Time": "Время",
+	"CW": ""
 }

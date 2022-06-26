@@ -1,4 +1,11 @@
 export default {
+	// Config
+	"config#Layout#bodySelectedStyle#label": "",
+	"config#Layout#bodySelectedStyle#info": "",
+	"config#Layout#iconSelectedStyle#label": "",
+	"config#Layout#iconSelectedStyle#info": "",
+	
+	// Component
 	"Really delete item?": "Действительно удалить объект?",
 	"show in sidebar": "показать на боковой панели",
 	"show button": "",
