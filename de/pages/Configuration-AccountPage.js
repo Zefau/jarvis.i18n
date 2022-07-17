@@ -2,6 +2,8 @@ export default {
 	"Account & ioBroker Installations": "Account & ioBroker Installationen",
 	"Buy": "Kaufen",
 	"Subscribe": "Abonnieren",
+	"Unsubscribe": "Abbestellen",
+	"Terminate": "Kündigen",
 	"User": "Benutzer",
 	"Sign In": "Anmelden",
 	"Licence valid for following installation": "Lizenz gültig für folgende Installation",
@@ -20,6 +22,10 @@ export default {
 		"Die Abo-Kosten für die private Lizenz betragen 12,00 EUR im Jahr.",
 		"Bitte versteht die eingeführte Möglichkeit des Abonnements nicht nur als reine Bezahlung, sondern auch als Unterstützung zur Weiterentwicklung des Adapters.",
 		"**Vielen Dank für euren Support!**"
+	],
+	"Termination": [
+		"Der Vertrag bzw. das Abonnement kann direkt [über PayPal (Verträge hier kündigen)](https://www.paypal.com/myaccount/autopay/connect/I-9NFWVV9EUGYU) gekündigt / storniert werden.",
+		"Die aktuelle Lizenz bleibt bis zum Ende der Laufzeit gültig."
 	],
 	"Disclaimer": [
 		"Der Gebrauch ist ausschließlich privat und nicht zu kommerziellen / gewerblichen Zwecken gestattet. Für eine kommerzielle Nutzung bitte via [ioBroker.jarvis{'@'}mailbox.org](mailto:ioBroker.jarvis{'@'}mailbox.org) schriftlich eine Preisanfrage stellen.",

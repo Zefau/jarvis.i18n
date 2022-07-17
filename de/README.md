@@ -42,7 +42,7 @@
 | [`modules/StateHTML.js`](entry) | 2 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`modules/StateList.js`](entry) | 25 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`modules/Weather.js`](entry) | 31 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
-| [`pages/Configuration-AccountPage.js`](entry) | 21 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
+| [`pages/Configuration-AccountPage.js`](entry) | 25 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`pages/Configuration-DevicesPage-DevicePage.js`](entry) | 38 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`pages/Configuration-DevicesPage-DevicesPage.js`](entry) | 9 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |
 | [`pages/Configuration-DevicesPage-ImportDevices.js`](entry) | 14 | 0 | completed ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) |

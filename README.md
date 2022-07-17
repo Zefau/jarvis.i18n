@@ -6,8 +6,8 @@ Help translate jarvis to your language!
 
 ## Status
 | Language | Translations | Not Translated | Progress |
-| `[de](de)` | 773 | 6 | 99.22% |
-| `[ru](ru)` | 632 | 61 | 90.35% |
+| `[de](de)` | 777 | 6 | 99.23% |
+| `[ru](ru)` | 637 | 60 | 90.58% |
 
 
 ## How To

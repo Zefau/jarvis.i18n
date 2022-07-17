@@ -2,6 +2,8 @@ export default {
 	"Account & ioBroker Installations": "",
 	"Buy": "",
 	"Subscribe": "",
+	"Unsubscribe": "",
+	"Terminate": "",
 	"User": "",
 	"Sign In": "",
 	"Licence valid for following installation": "",
@@ -20,6 +22,10 @@ export default {
 		"The subscription of the private licence costs 12,00 EUR in a year.",
 		"Please understand this not only as a payment, but also as an award and support for the development of this adapter.",
 		"**Thanks in advanced for your support!**"
+	],
+	"Termination": [
+		"You may quit your subscription directly [via PayPal (https://www.paypal.com/myaccount/autopay/connect/I-9NFWVV9EUGYU)](https://www.paypal.com/myaccount/autopay/connect/I-9NFWVV9EUGYU).",
+		"Your current licence will stay intact until the end of the paid period."
 	],
 	"Disclaimer": [
 		"The use of the application is only for private purposes. Commercial usage is not allowed. For a commercial usage please contact me via [ioBroker.jarvis{'@'}mailbox.org](mailto:ioBroker.jarvis{'@'}mailbox.org) for a pricing.",

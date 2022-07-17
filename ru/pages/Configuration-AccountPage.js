@@ -21,7 +21,14 @@ export default {
 		"Пожалуйста, воспринимайте подписку не просто как платеж, а также как поддержку развития проекта и награду для автора.",
 		"**Большое спасибо за вашу поддержку!**"
 	],
+	"Termination": [
+		"You may quit your subscription directly [via PayPal (https://www.paypal.com/myaccount/autopay/connect/I-9NFWVV9EUGYU)](https://www.paypal.com/myaccount/autopay/connect/I-9NFWVV9EUGYU).",
+		"Your current licence will stay intact until the end of the paid period."
+	],
 	"Disclaimer": [
-		""
+		"The use of the application is only for private purposes. Commercial usage is not allowed. For a commercial usage please contact me via [ioBroker.jarvis{'@'}mailbox.org](mailto:ioBroker.jarvis{'@'}mailbox.org) for a pricing.",
+		"Die Versorgung mit Patches - insbesondere sicherheitsrelevante Patches - erfolgt bezogen auf die jarvis Major Version (X.y.z, siehe [Semver](https://semver.org/lang/de/)) für mindestens 12 Monate ab Release-Zeitpunkt im Stable Repository von ioBroker. Ein Recht zur Versorgung mit Updates für neue Features besteht nicht.",
+		"The usage is at own risk. Security relevant settings of ioBroker as well as the local user-specific server instance have to be taken care of by the user himself.",
+		"Die Haftung und insbesondere ein möglicher Schadensersatz ist ausdrücklich ausgeschlossen. Der Verkauf erfolgt unter Ausschluss jeglicher Gewährleistung. Die Haftung auf Schadenersatz wegen Verletzungen von Gesundheit, Körper oder Leben und grob fahrlässiger und/oder vorsätzlicher Verletzungen meiner Pflichten als Verkäufer bleibt uneingeschränkt."
 	]
 }
