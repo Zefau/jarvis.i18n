@@ -25,6 +25,10 @@ export default {
 	"config#HistoryGraph#yAxis#label": "Настройка оси y", // Configuration of y axis
 	"config#HistoryGraph#yAxis#info": "открыть опции настройки", // open configuration options
 	"config#HistoryGraph#dateFormat#label": "Формат даты оси x", // Date format of x axis
+	"config#HistoryGraph#callback#label": "",
+	"config#HistoryGraph#callback#info": "",
+	"config#HistoryGraph#series#label": "",
+	"config#HistoryGraph#series#info": "",
 	
 	// Values
 	"config#HistoryGraph#ack#select#both": "оба (true и false)",

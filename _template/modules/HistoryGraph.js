@@ -25,11 +25,15 @@ export default {
 	"config#HistoryGraph#yAxis#label": "", // Configuration of y axis
 	"config#HistoryGraph#yAxis#info": "", // open configuration options
 	"config#HistoryGraph#dateFormat#label": "", // Date format of x axis
+	"config#HistoryGraph#callback#label": "", // Callback
+	"config#HistoryGraph#callback#info": "", // Modify the value using a callback function with the parameter value, timestamp and index
+	"config#HistoryGraph#series#label": "", // Configuration of the serie
+	"config#HistoryGraph#series#info": "", // open configuration options
 	
 	// Values
-	"config#HistoryGraph#ack#select#both": "",
-	"config#HistoryGraph#ack#select#true": "",
-	"config#HistoryGraph#ack#select#false": "",
+	"config#HistoryGraph#ack#select#both": "", // both (true and false)
+	"config#HistoryGraph#ack#select#true": "", // acknowledged (only true)
+	"config#HistoryGraph#ack#select#false": "", // not acknowledged (only false)
 	
 	"Timeline": "",
 	"Review": ""

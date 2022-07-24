@@ -25,6 +25,10 @@ export default {
 	"config#HistoryGraph#yAxis#label": "Konfiguration der y-Achse",
 	"config#HistoryGraph#yAxis#info": "öffne Konfigurationsoptionen",
 	"config#HistoryGraph#dateFormat#label": "Datumsformat der x-Achse",
+	"config#HistoryGraph#callback#label": "Callback",
+	"config#HistoryGraph#callback#info": "Mittels Callback-Funktion (Parameter Wert, Zeitstempel und Index) den Wert verändert",
+	"config#HistoryGraph#series#label": "Konfiguration der Serie",
+	"config#HistoryGraph#series#info": "öffne Konfigurationsoptionen",
 	
 	// Values
 	"config#HistoryGraph#ack#select#both": "beide (true und false)",
